@@ -231,6 +231,12 @@ img {
   margin: 1rem 0;
 }
 
+.section-divider {
+  border: 0;
+  border-top: 2px solid var(--link);
+  margin: 2rem 0;
+}
+
 .article-grid {
   display: grid;
   gap: 1rem;
